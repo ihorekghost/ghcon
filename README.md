@@ -22,7 +22,7 @@ This project makes use of the following third-party libraries/tools/assets:
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
-- cascadia-code (https://github.com/microsoft/cascadia-code); See third_party/cascadia-code/LICENSE.txt
+- cascadia-code (https://github.com/microsoft/cascadia-code); **See third_party/cascadia-code/LICENSE.txt**
     
     Copyright (c) 2019 - Present, Microsoft Corporation,
     with Reserved Font Name Cascadia Code.
