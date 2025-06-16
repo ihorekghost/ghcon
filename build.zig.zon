@@ -1,26 +1,30 @@
 .{
     .name = .ghcon,
 
-    .fingerprint = 0x1aafd27917886d59,
+    .fingerprint = 0x115ccde293b424f7,
 
     .version = "0.0.0",
 
     .dependencies = .{
-        .ghwin = .{
-            .path = "../ghwin/",
-        },
-        .ghgrid = .{
-            .path = "../ghgrid/",
-        },
-        .ghmath = .{
-            .path = "../ghmath/",
-        },
-        .ghdbg = .{
-            .path = "../ghdbg",
-        },
         .zigimg = .{
             .url = "git+https://github.com/zigimg/zigimg.git#74caab5edd7c5f1d2f7d87e5717435ce0f0affa1",
             .hash = "zigimg-0.1.0-8_eo2nWlEgCddu8EGLOM_RkYshx3sC8tWv-yYA4-htS6",
+        },
+        .ghgrid = .{
+            .url = "git+https://github.com/ihorekghost/ghgrid.git#f8504ca96b831abed3dc77195908ab4c74e052c2",
+            .hash = "ghgrid-0.0.0-KRiw9wVQAABoRJvVUKgpbiyKAHXVPYh7J5h2CpB1OGAQ",
+        },
+        .ghwin = .{
+            .url = "git+https://github.com/ihorekghost/ghwin.git#6ed9f5792290fdcca70fe91a6a4dd3dc26f84430",
+            .hash = "ghwin-0.0.0-y_dnj3_fAgAkIfizJIGk9GgKpWJOxyBX6XmSuED9HheA",
+        },
+        .ghdbg = .{
+            .url = "git+https://github.com/ihorekghost/ghdbg.git#1bede4eb0096b55d1159ee52321e8edc05cfe299",
+            .hash = "ghdbg-0.0.0-l4p0_7UVAACi7hcPsHo7jG7hRApUqemJ9UrqEAdkaxyu",
+        },
+        .ghmath = .{
+            .url = "git+https://github.com/ihorekghost/ghmath.git#f72b3e5671bd6bdb87c0189c892815de138b3549",
+            .hash = "ghmath-0.0.1-spfjIF0sAAAahuGWrlCiWSMMtna3qvN3P2MZhv7tIRmP",
         },
     },
 
