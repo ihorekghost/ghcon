@@ -1,5 +1,6 @@
 This project makes use of the following third-party libraries/tools/assets:
 - msdf-atlas-gen (https://github.com/Chlumsky/msdf-atlas-gen)
+    
     MIT License
 
     Copyright (c) 2020 - 2024 Viktor Chlumsky
@@ -22,6 +23,7 @@ This project makes use of the following third-party libraries/tools/assets:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 - cascadia-code (https://github.com/microsoft/cascadia-code); See third_party/cascadia-code/LICENSE.txt
+    
     Copyright (c) 2019 - Present, Microsoft Corporation,
     with Reserved Font Name Cascadia Code.
     
