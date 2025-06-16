@@ -29,11 +29,14 @@
     },
 
     .paths = .{
+        ".gitignore",
         "build.zig",
         "build.zig.zon",
-        "assets",
-        "assets/shaders/bin",
-        //"assets/shaders/hlsl",
+        "assets/charset.txt",
+        "assets/shaders/bin/msdf_pixel.cso",
+        "assets/shaders/bin/msdf_vertex.cso",
+        "assets/shaders/bin/plain_color_pixel.cso",
+        "assets/shaders/bin/plain_color_vertex.cso",
         "src",
         "third_party",
         "LICENSE",
