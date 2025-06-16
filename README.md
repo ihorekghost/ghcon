@@ -23,3 +23,4 @@ This project makes use of the following third-party libraries/tools/assets:
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 - cascadia-code (https://github.com/microsoft/cascadia-code); **See third_party/cascadia-code/LICENSE.txt**
+- zigimg (https://github.com/zigimg/zigimg)
